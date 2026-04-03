@@ -1,0 +1,29 @@
+{
+  "test_link": {
+    "link": null
+  },
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8473,
+    "french_3_gram_length": 8505,
+    "spanish_3_gram_length": 8744
+  },
+  "test_eval": {
+    "en_on_en": 17.88,
+    "en_on_fr": 35.7,
+    "en_on_tl": 41.9,
+    "en_on_nl": 37.42
+  },
+  "test_generate": {
+    "english_2_gram": "oulpeginShmee bie ae",
+    "english_3_gram": "it: Lynmkm ways.<end>",
+    "english_4_gram": " gifts @OndMade a no",
+    "spanish_2_gram": "cal\u00edodenyegucosie ew",
+    "spanish_3_gram": " orbe<end>",
+    "french_2_gram": ":/opapropades tprisl",
+    "french_3_gram": " tune<end>"
+  }
+}
