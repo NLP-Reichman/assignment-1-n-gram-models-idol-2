@@ -18,12 +18,12 @@
     "en_on_nl": 37.42
   },
   "test_generate": {
-    "english_2_gram": "oulpeginShmee bie ae",
-    "english_3_gram": "it: Lynmkm ways.<end>",
-    "english_4_gram": " gifts @OndMade a no",
-    "spanish_2_gram": "cal\u00edodenyegucosie ew",
-    "spanish_3_gram": " orbe<end>",
-    "french_2_gram": ":/opapropades tprisl",
-    "french_3_gram": " tune<end>"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amit: Lynmkm ways.<end>",
+    "english_4_gram": "I Love gifts @OndMade a no",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy orbe<end>",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis tune<end>"
   }
 }
