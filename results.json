@@ -7,15 +7,15 @@
   },
   "test_build_lm": {
     "english_2_gram_length": 748,
-    "english_3_gram_length": 8473,
-    "french_3_gram_length": 8505,
-    "spanish_3_gram_length": 8744
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 17.88,
-    "en_on_fr": 35.7,
-    "en_on_tl": 41.9,
-    "en_on_nl": 37.42
+    "en_on_en": 17.09,
+    "en_on_fr": 34.24,
+    "en_on_tl": 39.82,
+    "en_on_nl": 36.14
   },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
